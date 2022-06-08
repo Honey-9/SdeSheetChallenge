@@ -16,3 +16,9 @@
 1. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
 2. [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)
 3. [Merge two sorted Arrays without extra space](https://leetcode.com/problems/merge-sorted-array/)
+
+## Day 3
+### Arrays
+1. [Find the duplicate in an array of N+1 integers.]()
+2. [Repeat and Missing Number]()
+3. [Inversion of Array (Pre-req: Merge Sort)]()
