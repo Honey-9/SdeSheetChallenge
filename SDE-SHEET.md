@@ -22,3 +22,9 @@
 1. [Find the duplicate in an array of N+1 integers.]()
 2. [Repeat and Missing Number]()
 3. [Inversion of Array (Pre-req: Merge Sort)]()
+
+## Day 4
+### Arrays
+1. [Search in a 2d Matrix]()
+2. [Pow(X,n)]()
+3. [Majority Element (>N/2 times)]()
