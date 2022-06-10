@@ -28,3 +28,8 @@
 1. [Search in a 2d Matrix]()
 2. [Pow(X,n)]()
 3. [Majority Element (>N/2 times)]()
+
+## Day 5
+1. [Majority Element (>N/3 times)]()
+2. [Grid Unique Paths]()
+3. [Reverse Pairs]()
