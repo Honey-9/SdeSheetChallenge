@@ -33,3 +33,10 @@
 1. [Majority Element (>N/3 times)]()
 2. [Grid Unique Paths]()
 3. [Reverse Pairs]()
+
+## Day 6
+1. [2-Sum-Problem]()
+2. [4-sum-Problem]()
+3. [Longest Consecutive Sequence]()
+
+
