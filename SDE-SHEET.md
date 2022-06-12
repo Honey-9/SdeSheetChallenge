@@ -39,4 +39,12 @@
 2. [4-sum-Problem]()
 3. [Longest Consecutive Sequence]()
 
+## Day 7
+1. [Largest Subarray with 0 sum]()
+2. [Count number of subarrays with given Xor K]()
+3. [Longest Substring without repeat]()
+
+
+
+
 
