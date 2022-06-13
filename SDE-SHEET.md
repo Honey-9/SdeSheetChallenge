@@ -44,6 +44,11 @@
 2. [Count number of subarrays with given Xor K]()
 3. [Longest Substring without repeat]()
 
+## Day 8
+1. [Reverse a LinkedList]()
+2. [Find the middle of LinkedList]()
+3. [Merge two sorted Linked List (use method used in mergeSort)]()
+
 
 
 
