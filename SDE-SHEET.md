@@ -49,6 +49,11 @@
 2. [Find the middle of LinkedList]()
 3. [Merge two sorted Linked List (use method used in mergeSort)]()
 
+## Day 9
+1. [Remove N-th node from back of LinkedList]()
+2. [Add two numbers as LinkedList]()
+3. [Delete a given Node when a node is given.(0(1) solution)]()
+
 
 
 
