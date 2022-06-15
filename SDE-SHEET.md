@@ -54,6 +54,10 @@
 2. [Add two numbers as LinkedList]()
 3. [Delete a given Node when a node is given.(0(1) solution)]()
 
+## Day 10
+1. [Find intersection point of Y LinkedList]()
+2. [Detect a cycle in Linked List]()
+3. [Reverse a LinkedList in groups of size k.]()
 
 
 
