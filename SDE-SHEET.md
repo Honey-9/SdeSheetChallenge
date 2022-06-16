@@ -59,6 +59,10 @@
 2. [Detect a cycle in Linked List]()
 3. [Reverse a LinkedList in groups of size k.]()
 
+## Day 15
+1. [Check if a LinkedList is palindrome or not.]()
+2. [Find the starting point of the Loop of LinkedList]()
+3. [Flattening of a LinkedList]()
 
 
 
