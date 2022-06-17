@@ -64,5 +64,8 @@
 2. [Find the starting point of the Loop of LinkedList]()
 3. [Flattening of a LinkedList]()
 
-
+## Day 16
+1. [Rotate a LinkedList]()
+2. [Clone a Linked List with random and next pointer]()
+3. [3 sum]()
 
