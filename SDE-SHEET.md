@@ -59,13 +59,17 @@
 2. [Detect a cycle in Linked List]()
 3. [Reverse a LinkedList in groups of size k.]()
 
-## Day 15
+## Day 11
 1. [Check if a LinkedList is palindrome or not.]()
 2. [Find the starting point of the Loop of LinkedList]()
 3. [Flattening of a LinkedList]()
 
-## Day 16
+## Day 12
 1. [Rotate a LinkedList]()
 2. [Clone a Linked List with random and next pointer]()
 3. [3 sum]()
 
+## Day 13
+1. [Trapping rainwater]()
+2. [Remove Duplicate from Sorted array]()
+3. [Max consecutive ones]()
