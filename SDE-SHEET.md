@@ -73,3 +73,8 @@
 1. [Trapping rainwater]()
 2. [Remove Duplicate from Sorted array]()
 3. [Max consecutive ones]()
+
+## Day 14
+1. [N meetings in one room]()
+2. [Minimum number of platforms required for a railway]()
+3. [Job sequencing Problem]()
