@@ -78,3 +78,8 @@
 1. [N meetings in one room]()
 2. [Minimum number of platforms required for a railway]()
 3. [Job sequencing Problem]()
+
+## Day 15
+1. [Fractional Knapsack Problem]()
+2. [Greedy algorithm to find minimum number of coins]()
+3. [Activity Selection (it is the same as N meeting in one room)]()
