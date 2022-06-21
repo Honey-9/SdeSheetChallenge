@@ -83,3 +83,8 @@
 1. [Fractional Knapsack Problem]()
 2. [Greedy algorithm to find minimum number of coins]()
 3. [Activity Selection (it is the same as N meeting in one room)]()
+
+## Day 16
+1. [Subset Sums]()
+2. [Subset-II]()
+3. [Combination sum-1]()
