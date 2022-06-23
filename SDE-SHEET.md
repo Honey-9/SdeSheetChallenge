@@ -93,3 +93,8 @@
 1. [Combination sum-2]()
 2. [Palindrome Partitioning]()
 3. [K-th permutation Sequence]()
+
+## Day 18
+1. [Print all permutations of a string/array]()
+2. [N queens Problem]()
+3. [Sudoku Solver]()
