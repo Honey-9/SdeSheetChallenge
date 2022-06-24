@@ -98,3 +98,8 @@
 1. [Print all permutations of a string/array]()
 2. [N queens Problem]()
 3. [Sudoku Solver]()
+
+## Day 19
+1. [M coloring Problem]()
+2. [Rat in a Maze]()
+3. [Word Break (print all ways)]()
