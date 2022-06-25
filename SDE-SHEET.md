@@ -103,3 +103,8 @@
 1. [M coloring Problem]()
 2. [Rat in a Maze]()
 3. [Word Break (print all ways)]()
+
+## Day 20
+1. [The N-th root of an integer]()
+2. [Matrix Median]()
+3. [Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)]()
