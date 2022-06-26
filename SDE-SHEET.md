@@ -108,3 +108,8 @@
 1. [The N-th root of an integer]()
 2. [Matrix Median]()
 3. [Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)]()
+
+## Day 21
+1. [Search element in a sorted and rotated array/ find pivot where it is rotated]()
+2. [Median of 2 sorted arrays]()
+3. [K-th element of two sorted arrays]()
